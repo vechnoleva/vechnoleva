@@ -50,10 +50,10 @@ data class Developer(
 
 <p align="center">
   <a href="https://github.com/vechnoleva/kmp_ai_agent_chat">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=vechnoleva&repo=kmp_ai_agent_chat&theme=tokyonight&hide_border=true" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=vechnoleva&repo=kmp_ai_agent_chat&theme=tokyonight&hide_border=true&v=2" />
   </a>
   <a href="https://github.com/vechnoleva/RetypeDocx-and-Clear-Metadata">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=vechnoleva&repo=RetypeDocx-and-Clear-Metadata&theme=tokyonight&hide_border=true" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=vechnoleva&repo=RetypeDocx-and-Clear-Metadata&theme=tokyonight&hide_border=true&v=2" />
   </a>
 </p>
 
