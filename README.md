@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F52FF,50:C711E1,100:3DDC84&height=200&section=header&text=Hi,%20I'm%20VechnoLeva&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Android%20%E2%80%A2%20Kotlin%20Multiplatform%20%E2%80%A2%20Kotlin%20Backend&descAlignY=58&descSize=18" width="100%" />
 
 <a href="https://github.com/vechnoleva">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=7F52FF&center=true&vCenter=true&width=600&lines=Android+Developer+%F0%9F%93%B1;Kotlin+Multiplatform+enthusiast+%F0%9F%A7%A9;Building+backends+in+Kotlin+%E2%9A%99%EF%B8%8F;Exploring+AI-powered+apps+%F0%9F%A4%96" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=7F52FF&center=true&vCenter=true&width=600&lines=Android+Developer+%F0%9F%93%B1;Kotlin+Multiplatform+enthusiast+%F0%9F%A7%A9;Building+backends+in+Kotlin+%E2%9A%99%EF%B8%8F;Exploring+AI-powered+apps+%F0%9F%A4%96;Spec-Driven+Development+%F0%9F%93%9D" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -26,6 +26,7 @@ data class Developer(
         "Kotlin backend services",
         "AI-powered mobile apps",
     ),
+    val workflow: String = "Spec-Driven Development (SDD) with AI coding agents",
     val alsoTouches: List<String> = listOf("Swift / iOS"),
 )
 ```
@@ -44,6 +45,7 @@ data class Developer(
   <img src="https://img.shields.io/badge/Coroutines%20%26%20Flow-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/Hilt-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/Retrofit%20%2F%20Ktor-FF6F00?style=for-the-badge&logo=ktor&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spec--Driven%20Development-C711E1?style=for-the-badge&logo=readthedocs&logoColor=white" />
 </p>
 
 ### 🚀 Featured projects
@@ -89,6 +91,7 @@ data class Developer(
 - 🧩 Делаю кроссплатформенные приложения на **Kotlin Multiplatform** и **Compose Multiplatform**
 - ⚙️ Разрабатываю бэкенд на **Kotlin**
 - 🤖 Интересуюсь мобильными приложениями с **ИИ**
+- 📝 Работаю по **Spec-Driven Development (SDD)**: сначала спецификация, потом код вместе с ИИ-агентами
 - 🍏 Иногда пишу на **Swift** под iOS
 
 **Избранные проекты:**
