@@ -48,15 +48,6 @@ data class Developer(
 
 ### 🚀 Featured projects
 
-<p align="center">
-  <a href="https://github.com/vechnoleva/kmp_ai_agent_chat">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vechnoleva&repo=kmp_ai_agent_chat&theme=tokyonight&hide_border=true&description_lines_count=2" />
-  </a>
-  <a href="https://github.com/vechnoleva/RetypeDocx-and-Clear-Metadata">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vechnoleva&repo=RetypeDocx-and-Clear-Metadata&theme=tokyonight&hide_border=true&description_lines_count=2" />
-  </a>
-</p>
-
 | Project | What it is |
 |---|---|
 | 🤖 **[kmp_ai_agent_chat](https://github.com/vechnoleva/kmp_ai_agent_chat)** | AI agent chat built with Kotlin & Compose Multiplatform — one codebase for Android, iOS, Desktop and Web |
@@ -65,16 +56,16 @@ data class Developer(
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vechnoleva&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vechnoleva&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vechnoleva&theme=tokyonight" width="100%" />
+</p>
+
+<p align="center">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vechnoleva&theme=tokyonight" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vechnoleva&theme=tokyonight" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=vechnoleva&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vechnoleva&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 </p>
 
 ---
